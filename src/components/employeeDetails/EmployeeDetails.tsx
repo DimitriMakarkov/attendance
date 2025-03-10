@@ -25,7 +25,7 @@ export const EmployeeDetails = () => {
     return (
         <div className="employeeDetails">
 
-            <h2>Employee Details</h2>
+            <h2>Employee Detailsssss</h2>
 
             <span style={{ marginRight: '100px' }}>First Name: </span>
             <span>Last Name:</span><br /><br />
