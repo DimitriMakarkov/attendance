@@ -1,0 +1,18 @@
+.employeeDetails {
+    border: 1px solid black;
+    width: 500px;
+    height: 600px;
+    border-radius: 10px;
+    color: rgb(88, 85, 85);
+    padding: 15px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.box{
+    margin-top: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+}
